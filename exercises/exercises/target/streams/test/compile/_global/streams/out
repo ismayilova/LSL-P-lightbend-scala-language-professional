@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\ScalaProjects\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\test\scala\com\lightbend\training\scalatrain\TestData.scala:41:39: no arguments allowed for nullary constructor JourneyPlanner: ()com.lightbend.training.scalatrain.JourneyPlanner[0m
+[0m[[0m[31merror[0m] [0m[0m  val planner = new JourneyPlanner(Set(ice724, ice726))[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\ScalaProjects\LSL-P-lightbend-scala-language-professional\exercises\exercises\src\main\scala\com\lightbend\training\scalatrain\Train.scala:14:28: traits or objects may not have parameters[0m
+[0m[[0m[31merror[0m] [0m[0mcase object RegionalExpress( number:Int) extends TrainInfo[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
